@@ -4,6 +4,9 @@ backend/myenv/
 # Ignore Node.js dependencies
 frontend/node_modules/
 
+# Ignore ML models (large files)
+backend/ml models/
+
 # Ignore OS or editor-specific files
 .DS_Store
 Thumbs.db
